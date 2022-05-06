@@ -18,6 +18,6 @@ As mentioned previously, this project could be used to train smart glasses that 
 
 #### last-food-models files:
 Too large to upload to github so available at google drive:
-food-min-training-1: https://drive.google.com/file/d/1zluAUTsWtJ_PqyFT9x5oAJZYsaSZu0g-/view?usp=sharing
-food-min-training-2: https://drive.google.com/file/d/10oYAv0ZPADZHMQi2bucBRzv2CnAUIPkO/view?usp=sharing
+* food-min-training-1: https://drive.google.com/file/d/1zluAUTsWtJ_PqyFT9x5oAJZYsaSZu0g-/view?usp=sharing
+* food-min-training-2: https://drive.google.com/file/d/10oYAv0ZPADZHMQi2bucBRzv2CnAUIPkO/view?usp=sharing
 
